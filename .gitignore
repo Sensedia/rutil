@@ -1,0 +1,10 @@
+.terraform
+kubeconfig*
+config-map-aws-auth*
+*.idea
+*.terragrunt/
+*.vscode
+*.terraform
+*.backup
+terraform.tfstate
+*.terragrunt-cache
